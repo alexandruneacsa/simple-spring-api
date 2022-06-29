@@ -1,4 +1,5 @@
-/*Spring Boot App V1 by Neacsa Alexandru*/
+/*Spring Boot App V1*/
+/*Author: Neacsa Alexandru*/
 package com.example.myspringapi;
 
 import org.springframework.boot.SpringApplication;
